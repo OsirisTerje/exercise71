@@ -1,1 +1,1 @@
-# exercise71
+# Exercise71 for Git Course
